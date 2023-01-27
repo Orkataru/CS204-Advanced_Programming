@@ -1,5 +1,6 @@
 # CS204-Advanced_Programming
 This repo consists of my submissions for the homeworks of CS204 course of Fall '23
+
 CS204 covers some advanced programming concepts such as:
 * Pointers and dynamic memory allocation
 * Linked lists
